@@ -1,0 +1,44 @@
+
+
+
+@font-face {
+font-family: 'Calibri Light';
+font-style: normal;
+font-weight: normal;
+src: local('fontes/calibril'), url('calibril.woff') format('woff');
+}
+
+
+
+.orcamento select {
+	width: 100%;
+	height: 30px;
+	border-radius: 20px;
+}
+
+.orcamento input {
+	margin-top: 10px;
+	width: 100%;
+	height: 30px;
+	border-radius: 20px;
+	border: solid 1px #a3a3a3;
+}
+
+textarea {
+	margin-top: 10px;
+	width: 100%;
+	height: 30px;
+	border-radius: 20px;
+	height: 100px;
+}
+
+.fistcont {
+	background-color: red;
+}
+
+/*.slider {
+	min-height: 500px;
+	width: 100%;
+	background-image: url("imagens/slider.jpg");
+
+}*/
